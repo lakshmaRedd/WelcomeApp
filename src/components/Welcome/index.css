@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.container {
+  background-color: #1e293b;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #f0bb03;
+  font-family: 'Bree Serif';
+  font-size: 68px;
+  font-weight: bold;
+  padding: 12px;
+}
+.desc {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-weight: 400;
+  font-size: 38px;
+  padding: 24px;
+}
+.subscribe {
+  color: #1e293b;
+  font-family: 'Bree Serif';
+  font-size: 18px;
+  padding: 8px;
+  border: 0px;
+  border-radius: 8px;
+}
